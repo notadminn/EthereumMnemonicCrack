@@ -1,8 +1,5 @@
 # Ethereum Mnemonic Crack
 
-![Ethereum Mnemonic Crack](https://raw.githubusercontent.com/Pymmdrza/EthereumMnemonicCrack/mainx/ethereumcover3d.webp 'Ethereum Mnemonic Crack')
-
----
 Ethereum Address Wallet Generated With Private Key From Mnemonic and check Value (Balance , transaction) Without API
 
 ---
@@ -16,7 +13,13 @@ Ethereum Address Wallet Generated With Private Key From Mnemonic and check Value
 - Changing the display mode in announcing the results of each process.
 
 ---
-`MneEthOn_V4` Screen Record: (MneEthOn_V4.py [Source](https://github.com/Pymmdrza/EthereumMnemonicCrack/blob/mainx/MneEthOn_V4.py))
+## Ethereum Mnemonic Crack V4.1.3
+
+>[!NOTE]
+>File : [ `EthMneOn_V4_1.py` ](https://github.com/Pymmdrza/EthereumMnemonicCrack/blob/mainx/EthMneOn_V4_1.py) 
+
+There is a problem with the Atomic wallet Ethereum node  `ethereum.atomicwallet.io`, that's why it caused a disturbance in the script, so another server was also replaced `ethbook.guarda.co`. [Update](https://github.com/Pymmdrza/EthereumMnemonicCrack/blob/mainx/EthMneOn_V4_1.py)
+
 
 ![MneEthOn_V4 Screen Record](https://raw.githubusercontent.com/Pymmdrza/EthereumMnemonicCrack/mainx/MneEth_V4_Screen.gif 'MneEthOn_V4 ScreenRecord')
 
