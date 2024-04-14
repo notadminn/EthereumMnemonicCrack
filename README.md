@@ -3,16 +3,6 @@
 Ethereum Address Wallet Generated With Private Key From Mnemonic and check Value (Balance , transaction) Without API
 
 ---
-`MneEthOn_V3` Screen Record: (MneEthOn_V3.py [Source](https://github.com/Pymmdrza/EthereumMnemonicCrack/blob/mainx/MneEthOn_V3.py))
-
-![MneEthOn_V3 Screen Record](https://raw.githubusercontent.com/Pymmdrza/EthereumMnemonicCrack/mainx/MneEth_V3_Screen.gif 'MneEthOn_V3 ScreenRecord')
-
-- Added constant monitoring of system status of involved resources.
-- Upgrade in method and checking wallet details through API `Atomicwallet`.
-- Using the latest version of the very powerful [cryptofuzz](https://cryptofuzz.readthedocs.io/en/latest/ 'cryptofuzz document') library and optimizing the speed of production and search
-- Changing the display mode in announcing the results of each process.
-
----
 ## Ethereum Mnemonic Crack V4.1.3
 
 >[!NOTE]
@@ -54,6 +44,16 @@ pip3 install psutil
 pip3 install blessed
 ```
 
+
+---
+`MneEthOn_V3` Screen Record: (MneEthOn_V3.py [Source](https://github.com/Pymmdrza/EthereumMnemonicCrack/blob/mainx/MneEthOn_V3.py))
+
+![MneEthOn_V3 Screen Record](https://raw.githubusercontent.com/Pymmdrza/EthereumMnemonicCrack/mainx/MneEth_V3_Screen.gif 'MneEthOn_V3 ScreenRecord')
+
+- Added constant monitoring of system status of involved resources.
+- Upgrade in method and checking wallet details through API `Atomicwallet`.
+- Using the latest version of the very powerful [cryptofuzz](https://cryptofuzz.readthedocs.io/en/latest/ 'cryptofuzz document') library and optimizing the speed of production and search
+- Changing the display mode in announcing the results of each process.
 
 
 ---
