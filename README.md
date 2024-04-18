@@ -11,6 +11,16 @@ Ethereum Address Wallet Generated With Private Key From Mnemonic and check Value
 There is a problem with the Atomic wallet Ethereum node  `ethereum.atomicwallet.io`, that's why it caused a disturbance in the script, so another server was also replaced `ethbook.guarda.co`. [Update](https://github.com/Pymmdrza/EthereumMnemonicCrack/blob/mainx/MneEthOn_V4_1.py)
 
 
+```bash
+git clone https://github.com/Pymmdrza/EthereumMnemonicCrack.git
+cd EthereumMnemonicCrack
+# windows :
+Runner_V4_1.cmd
+# linux :
+chmod +x Runner_V4_1.sh&&./Runner_V4_1.sh
+```
+
+
 ![MneEthOn_V4 Screen Record](https://raw.githubusercontent.com/Pymmdrza/EthereumMnemonicCrack/mainx/MneEth_V4_Screen.gif 'MneEthOn_V4 ScreenRecord')
 
 - Added constant monitoring of system status of involved resources.
