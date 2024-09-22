@@ -61,7 +61,7 @@ def mmdrza() :
 
 
 mmdrza()
-
+MNEMONIC = words
 if __name__ == '__main__' :
     for i in range(len(add)) :
         p = multiprocessing.Process(target = mmdrza)
