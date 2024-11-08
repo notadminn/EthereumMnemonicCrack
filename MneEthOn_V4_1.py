@@ -42,9 +42,21 @@ def transaction(addr):
 
 
 def draw_system_status(term):
-    cpu_percent = psutil.cpu_percent()
-    ram_percent = psutil.virtual_memory().percent
-    disk_percent = psutil.disk_usage('/').percent
+    try:
+        cpu_percent = psutil.cpu_percent()
+    except PermissionError:
+        cpu_percent = "N/A"  # or use a default value
+
+    try:
+        ram_percent = psutil.virtual_memory().percent
+    except PermissionError:
+        ram_percent = "N/A"
+
+    try:
+        disk_percent = psutil.disk_usage('/').percent
+    except PermissionError:
+        disk_percent = "N/A"
+
     termWidth = term.width
     system_status = (
         f'\n{draw_graph("CPU", cpu_percent, termWidth)}\n'
